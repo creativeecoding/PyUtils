@@ -1,1 +1,2 @@
-# Screenshot Tool dependencies
+# Screenshot Tool
+pyautogui
